@@ -1,0 +1,1 @@
+export const metadata = { title: "Property Inspection • TrustRoute" };
